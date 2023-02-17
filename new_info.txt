@@ -1,0 +1,2 @@
+pip freeze > requirements.txt    -> will copy all the project requirements (libs) into the file
+pip install -r requirements.txt   -> will install al the requirements 
